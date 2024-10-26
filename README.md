@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site here](https://your-live-site-url.com)
+- Live Site URL: [Live site here](https://testimonials-grid-section-ivory-eta.vercel.app/)
 
 
 ### Built with
